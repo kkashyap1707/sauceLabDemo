@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="388798" started-at="2017-07-14T20:14:10Z" finished-at="2017-07-14T20:20:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="388798" started-at="2017-07-14T20:14:10Z" finished-at="2017-07-14T20:20:39Z">
+      <class name="com.yourcompany.Tests.SampleTest">
+        <test-method status="PASS" signature="verifyCommentInputTest(java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.yourcompany.Tests.SampleTest@9f70c54]" name="verifyCommentInputTest" duration-ms="350179" started-at="2017-07-15T01:44:10Z" data-provider="hardCodedBrowsers" finished-at="2017-07-15T01:50:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[latest-1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 7]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[public void com.yourcompany.Tests.SampleTest.verifyCommentInputTest(java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.net.MalformedURLException,org.openqa.selenium.InvalidElementStateException,java.rmi.UnexpectedException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCommentInputTest -->
+        <test-method status="PASS" signature="verifyCommentInputTest(java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.yourcompany.Tests.SampleTest@9f70c54]" name="verifyCommentInputTest" duration-ms="363772" started-at="2017-07-15T01:44:10Z" data-provider="hardCodedBrowsers" finished-at="2017-07-15T01:50:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[55.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 7]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[public void com.yourcompany.Tests.SampleTest.verifyCommentInputTest(java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.net.MalformedURLException,org.openqa.selenium.InvalidElementStateException,java.rmi.UnexpectedException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCommentInputTest -->
+        <test-method status="PASS" signature="verifyCommentInputTest(java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.yourcompany.Tests.SampleTest@9f70c54]" name="verifyCommentInputTest" duration-ms="386833" started-at="2017-07-15T01:44:10Z" data-provider="hardCodedBrowsers" finished-at="2017-07-15T01:50:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[internet explorer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 7]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[public void com.yourcompany.Tests.SampleTest.verifyCommentInputTest(java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.net.MalformedURLException,org.openqa.selenium.InvalidElementStateException,java.rmi.UnexpectedException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCommentInputTest -->
+        <test-method status="PASS" signature="verifyCommentInputTest(java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.yourcompany.Tests.SampleTest@9f70c54]" name="verifyCommentInputTest" duration-ms="387664" started-at="2017-07-15T01:44:10Z" data-provider="hardCodedBrowsers" finished-at="2017-07-15T01:50:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[54.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[OS X 10.10]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[public void com.yourcompany.Tests.SampleTest.verifyCommentInputTest(java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.net.MalformedURLException,org.openqa.selenium.InvalidElementStateException,java.rmi.UnexpectedException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCommentInputTest -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.yourcompany.Tests.SampleTest@9f70c54]" name="tearDown" is-config="true" duration-ms="806" started-at="2017-07-15T01:50:00Z" finished-at="2017-07-15T01:50:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCommentInputTest status=SUCCESS method=SampleTest.verifyCommentInputTest(java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.yourcompany.Tests.SampleTest@9f70c54] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.yourcompany.Tests.SampleTest@9f70c54]" name="tearDown" is-config="true" duration-ms="763" started-at="2017-07-15T01:50:14Z" finished-at="2017-07-15T01:50:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCommentInputTest status=SUCCESS method=SampleTest.verifyCommentInputTest(java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.yourcompany.Tests.SampleTest@9f70c54] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.yourcompany.Tests.SampleTest@9f70c54]" name="tearDown" is-config="true" duration-ms="757" started-at="2017-07-15T01:50:37Z" finished-at="2017-07-15T01:50:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCommentInputTest status=SUCCESS method=SampleTest.verifyCommentInputTest(java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.yourcompany.Tests.SampleTest@9f70c54] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.yourcompany.Tests.SampleTest@9f70c54]" name="tearDown" is-config="true" duration-ms="1110" started-at="2017-07-15T01:50:38Z" finished-at="2017-07-15T01:50:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCommentInputTest status=SUCCESS method=SampleTest.verifyCommentInputTest(java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.yourcompany.Tests.SampleTest@9f70c54] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.yourcompany.Tests.SampleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
